@@ -1,6 +1,6 @@
 # 📓 Apuntes Semanales
 
-**Materia:** ____________________
+**Materia:** sistemas distribuidos
 
 ---
 
