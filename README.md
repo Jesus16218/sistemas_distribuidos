@@ -7,7 +7,7 @@
 ## Semana 1
 * **Tema:** 
 * **Lo que vimos:**
-  * 
+  * nos presentamo y nos indico los criterios de evaluacion
   * 
 * **Notas / Ejemplos:**
   * 
