@@ -19,7 +19,8 @@
 ## Semana 2
 * **Tema:** 
 * **Lo que vimos:**
-  * 
+  * capas osi y capas tcp/ip
+  * diferentes tecnologías para levantar una app, un entorno monolítico 
   * 
 * **Notas / Ejemplos:**
   * 
