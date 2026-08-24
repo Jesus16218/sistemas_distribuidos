@@ -21,6 +21,7 @@
 * **Lo que vimos:**
   * capas osi y capas tcp/ip
   * diferentes tecnologías para levantar una app, un entorno monolítico 
+  * tcp/ip-->protocolo data unit(PDU)->protocolos de seguridad 
   * 
 * **Notas / Ejemplos:**
   * 
